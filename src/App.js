@@ -6,16 +6,20 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="London" />
+        <Weather defaultCity="Pretoria" />
         <footer>
           This project was coded by{" "}
-          <a href="https://github.com/je5513" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/elletaro"
+            target="_blank"
+            rel="noreferrer"
+          >
             {" "}
-            Jessica Shore{" "}
+            Chantelle Dlamini{" "}
           </a>{" "}
           , open sourced on
           <a
-            href="https://github.com/je5513/weather-react-project"
+            href="https://github.com/elletaro/react-final-forecast"
             target="_blank"
             rel="noreferrer"
           >
