@@ -1,15 +1,15 @@
 body {
     background: linear-gradient(109.6deg,
-            rgb(204, 228, 247) 11.2%,
-            rgb(237, 246, 250) 100.2%);
+            rgb(227, 182, 248) 11.2%,
+            rgb(227, 182, 248) 100.2%);
 }
 
 .Weather {
     background-color: white;
-    border: 2px solid #dadde1;
+    border: 2px solid #fcfcfc;
     border-radius: 15px;
     box-shadow: 0 15px 25px rgba(24, 18, 37, 0.2);
-    color: #878787;
+    color: #8130ad;
     padding: 30px;
     margin: 20px auto;
 }
@@ -18,7 +18,7 @@ body {
     font-size: 40px;
     line-height: 44px;
     margin: 20px 0 0 0;
-    color: #212121;
+    color: #8f3aba;
     font-weight: bold;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .button {
-    background-color: #bbd7ed;
+    background-color: #e2b5f0;
     border: none;
 }
 
@@ -56,7 +56,7 @@ body {
 }
 
 .unit {
-    color: #212121;
+    color: #c688f3;
     font-size: 20px;
     font-weight: 400;
     position: relative;
@@ -65,13 +65,13 @@ body {
 }
 
 .Weather .unit a {
-    color: #064a9ebf;
+    color: #7432bbf7;
     font-weight: bold;
     text-decoration: none;
 }
 
 a {
-    color: #657894;
+    color: #d624c7;
 }
 
 a:hover {
